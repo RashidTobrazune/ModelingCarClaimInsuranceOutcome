@@ -56,12 +56,15 @@ outcome	Whether the client made a claim on their car insurance (response variabl
 0: No claim
 1: Made a claim
 
-Analysis and Insight
+ Insight
+ 
+ The best feature was 'Driving Experience' with an accuracy of 0.7771
 
 <img width="960" alt="Screenshot 2024-07-06 191913" src="https://github.com/RashidTobrazune/ModelingCarClaimInsuranceOutcome/assets/150378293/e320b0bd-5387-4d61-a402-559e7e09440d">
 
 
 <img width="960" alt="immm" src="https://github.com/RashidTobrazune/ModelingCarClaimInsuranceOutcome/assets/150378293/47503b5c-90be-4edc-9e7f-2bc19e019593">
-The best feature was 'Driving Experience' with an accuracy of 0.7771
+
+
 
 
